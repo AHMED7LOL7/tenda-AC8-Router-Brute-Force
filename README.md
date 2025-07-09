@@ -9,8 +9,8 @@ This script attempts to perform a brute-force login on a tenda AC8 (`192.168.0.1
 #🛠️ How to Use
 
 1. Ensure you're connected to a local network with a router accessible at `192.168.0.1`.
-2. Obtain the `wordlist.txt` password list .
-3. Run the script
+2. add your wordlist to the `wordlist.txt` .
+3. Run the script .
 
 Using it on any device or network without permission is strictly prohibited.
 
